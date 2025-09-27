@@ -36,7 +36,7 @@ Install:
 pip install pytest
 ```
 
-Ausführen:
+Execute:
 ```bash
 pytest
 ```
