@@ -8,8 +8,6 @@ It supports the following file types
 
 Usage
 
-python main.py file1 file2
-
 ```bash
 python main.py file1 file2
 ```
